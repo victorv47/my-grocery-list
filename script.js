@@ -36,4 +36,4 @@ addBtn.addEventListener('click', e => {
   }
 })
 
-groceries.map(grocery => addGrocery(grocery))
+groceries.map(grocery => addGrocery(grocery)) 
